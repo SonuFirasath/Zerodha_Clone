@@ -106,11 +106,15 @@ Portfolio and trading operations become available.
 
 🚀 Getting Started (Local Setup)
 1️⃣ Clone the Repository
+
 git clone https://github.com/SonuFirasath/Zerodha_Clone.git
+
 cd Zerodha_Clone
 
 2️⃣ Setup Backend
+
 cd backend
+
 npm install
 
 
@@ -126,13 +130,19 @@ Run backend:
 npm start
 
 3️⃣ Setup Frontend
+
 cd frontend
+
 npm install
+
 npm start
 
 4️⃣ Setup Dashboard
+
 cd dashboard
+
 npm install
+
 npm start
 
 🌐 Sample API Endpoints
@@ -162,7 +172,7 @@ Full-stack application structuring
 
 📽 Demo
 
-(Add your demo video link here)
+Demo Video Link : https://drive.google.com/file/d/1JgXpTlFKBY2fHf_mSkDUDart2G_tYE56/view?usp=sharing
 
 🛣 Future Improvements
 
