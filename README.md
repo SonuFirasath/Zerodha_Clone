@@ -67,8 +67,11 @@ Mongoose ODM
 🏗 Project Architecture
 Zerodha_Clone/
 │
+
 ├── frontend/      → Landing pages + Authentication UI
+
 ├── dashboard/     → Kite-style trading dashboard
+
 ├── backend/       → Express server + APIs + MongoDB integration
 
 🔐 Authentication Workflow
@@ -112,6 +115,7 @@ npm install
 
 
 Create a .env file:
+
 
 MONGO_URL=your_mongodb_atlas_connection_string
 JWT_SECRET=your_secret_key
